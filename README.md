@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm currently doing some project for learning specification of some language. :smile:
+And increase my capacity on computer science! :mortar_board:
+So don't hesitate to say me tips! :four_leaf_clover:
+
+If you want explication about one of my project or coding explication, I will be happy to answer this! :wink:
 <!--
 **nathan-hoche/nathan-hoche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

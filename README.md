@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=nathan-hoche&show_icons=true&hide_border=true&show_owner=false&include_all_commits=true" />
-
-<img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahan-hoche&layout=default&hide_border=true">

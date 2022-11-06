@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=nathan-hoche&color=FD428D)
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=nathan-hoche&show_icons=true&hide_border=true&show_owner=false&include_all_commits=true" />
 

@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My Project List
+1. [Artificial Intelligence](https://github.com/nathan-hoche/BrainySimulation/blob/main/Project/IA/README.md)
+2. [Workshop](https://github.com/nathan-hoche/BrainySimulation/blob/main/Project/Workshop/README.md)
+3. [Other](https://github.com/nathan-hoche/BrainySimulation/blob/main/Project/Component/README.md)
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=nathan-hoche&show_icons=true&hide_border=true&show_owner=false&include_all_commits=true" />
 
 <img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-hoche&layout=default&hide_border=true">
+

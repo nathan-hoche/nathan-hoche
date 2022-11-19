@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### My Project List
 1. [Artificial Intelligence](https://github.com/nathan-hoche/nathan-hoche/blob/main/Project/IA/README.md)
 3. [Workshop](https://github.com/nathan-hoche/nathan-hoche/blob/main/Project/Workshop/README.md)
-4. [Other](https://github.com/nathan-hoche/nathan-hoche/blob/main/Project/Component/README.md)
+4. [Other](https://github.com/nathan-hoche/nathan-hoche/blob/main/Project/Other/README.md)
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=nathan-hoche&show_icons=true&hide_border=true&show_owner=false&include_all_commits=true" />
 

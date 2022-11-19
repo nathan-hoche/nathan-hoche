@@ -2,7 +2,7 @@
 
 ## API
 
-1. [Github Clien]() -> Soon in public
+1. [Github Client]() -> Soon in public
 
 ## Framework
 

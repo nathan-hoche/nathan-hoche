@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm currently doing some project for learning specification of some language. :smile:
 And increase my capacity on computer science! :mortar_board:
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My Project List
+# My Project List
 > Click  on the type of the project to go to the complete list
 
 | Type of project | Number of project | Main Feature |
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 | [Workshop](https://github.com/nathan-hoche/nathan-hoche/blob/main/Project/Workshop/README.md) | 7 | Bot Discord, Web, Web Scraping, Artificial Intelligence |
 | [Other](https://github.com/nathan-hoche/nathan-hoche/blob/main/Project/Other/README.md) | 6 | API, Cheat Sheet, Framework, Plugin System, Template, Unit Test |
 
+# My Statistics
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=nathan-hoche&show_icons=true&hide_border=true&show_owner=false&include_all_commits=true" />
 
 <img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-hoche&layout=default&hide_border=true">

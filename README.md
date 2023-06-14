@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 | Type of project | Number of project | Main Feature |
 | :---: | :---: | :---: |
-| [Artificial Intelligence](https://github.com/nathan-hoche/nathan-hoche/blob/main/Project/IA/README.md) | 3 | Algorithm, Deep Learning |
+| [Artificial Intelligence](https://github.com/nathan-hoche/nathan-hoche/blob/main/Project/IA/README.md) | 4 | Algorithm, Deep Learning, Reinforcement Learning |
 | [Workshop](https://github.com/nathan-hoche/nathan-hoche/blob/main/Project/Workshop/README.md) | 7 | Bot Discord, Web, Web Scraping, Artificial Intelligence |
 | [Other](https://github.com/nathan-hoche/nathan-hoche/blob/main/Project/Other/README.md) | 6 | API, Cheat Sheet, Framework, Plugin System, Template, Unit Test |
 

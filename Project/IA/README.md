@@ -8,3 +8,8 @@
 ## Deep Learning
 
 1. [Simple version of Tensorflow](https://github.com/nathan-hoche/BrainySimulation)
+
+## Reinforcement Learning
+
+1. [Implementation of several Reinforcement Learning Algorithm in a Car racing](https://github.com/nathan-hoche/CarRacing)
+

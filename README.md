@@ -1,12 +1,26 @@
 # Hi there 👋
 
-I'm currently doing some project for learning specification of some language. :smile:
-And increase my capacity on computer science! :mortar_board:
-So don't hesitate to say me tips! :four_leaf_clover:
+This is my Github profile, you can find here a part of my personnal projects and a list of my workshop for Epitech Toulouse! :wink:
 
-If you want explication about one of my project or coding explication, I will be happy to answer this! :wink:
+I am in love with Artificial Intelligence for more than 8 years now! During those years, I done a lot of projects, some of my projects are on Github, but not all of them. :sweat_smile: But I listed the most interestings ones here! :smile:
 
 # My Project List
+
+You can find here a list of my projects, with a description, a link to the repository, the status of the project, the language used and the technology used. :wink:
+
+But, in order to underlight some of my projects, I will create a list of my favorite projects! :smile:
+
+### My Favorite Projects
+
+Here is a list of my favorite projects! :smile:
+
+| Rank in my Heart | Name | Type | Repository |
+|:----------------:|:----:|:----:|:----:|
+| 1 | MonaLisa | Artificial Intelligence | [Here](https://github.com/nathan-hoche/MonaLisa) |
+| 2 | Car Racing | Artificial Intelligence | [Here](https://github.com/nathan-hoche/CarRacing) |
+| 3 | Brainy Simulation | Artificial Intelligence | [Here](https://github.com/nathan-hoche/BrainySimulation) |
+
+> :warning: You can find a lot more information about those projects in their repository! :wink:
 
 ## Artificial Intelligence
 

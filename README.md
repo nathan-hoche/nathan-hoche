@@ -19,6 +19,7 @@ Here is a list of my project on Github about Artificial Intelligence. :robot:
 | 3 | Brainy Simulation | Implementation of neural network (Perceptron + Deep Neural Network) from scratch | [Here](https://github.com/nathan-hoche/BrainySimulation) | :white_check_mark: | Python | numpy, matplotlib |
 | 4 | Algorithm | List of Algorithm with implementation from scratch in basic case | [Here](https://github.com/nathan-hoche/Algorithm) | :white_check_mark: | Python | ... |
 
+
 ## Workshop
 
 Here is the list of workshop I organized for Epitech Toulouse. :school:

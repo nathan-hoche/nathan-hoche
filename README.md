@@ -5,26 +5,14 @@ And increase my capacity on computer science! :mortar_board:
 So don't hesitate to say me tips! :four_leaf_clover:
 
 If you want explication about one of my project or coding explication, I will be happy to answer this! :wink:
-<!--
-**nathan-hoche/nathan-hoche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # My Project List
-> Click  on the type of the project to go to the complete list
 
-| Type of project | Number of project | Main Feature |
-| :---: | :---: | :---: |
-| [Artificial Intelligence](https://github.com/nathan-hoche/nathan-hoche/blob/main/Project/IA/README.md) | 4 | Algorithm, Deep Learning, Reinforcement Learning |
-| [Workshop](https://github.com/nathan-hoche/nathan-hoche/blob/main/Project/Workshop/README.md) | 7 | Bot Discord, Web, Web Scraping, Artificial Intelligence |
-| [Other](https://github.com/nathan-hoche/nathan-hoche/blob/main/Project/Other/README.md) | 6 | API, Cheat Sheet, Framework, Plugin System, Template, Unit Test |
+## Artificial Intelligence
 
+| Number | Name | Description | Repository | Status | Language | Technology |
+|:------:|:----:|:-----------:|:----------:|:------:|:--------:|:----------:|
+| 1 | MonaLisa | Recreate an image using polygon and Genetic Algorithm | [Here](https://github.com/nathan-hoche/MonaLisa) | :white_check_mark: | Python | Genetic Algorithm |
+| 2 | Car Racing | Implementation of several Reinforcement Learning Algorithm combined with Neural network in a Car racing | [Here](https://github.com/nathan-hoche/CarRacing) | :white_check_mark: | Python | Genetic Algorithm, DQN, Neat, DDPG / CNN, Neural Network, Kmeans / numpy |
+| 3 | Brainy Simulation | Implementation of neural network (Perceptron + Deep Neural Network) from scratch | [Here](https://github.com/nathan-hoche/BrainySimulation) | :white_check_mark: | Python | numpy, matplotlib |
+| 4 | Algorithm | List of Algorithm with implementation from scratch in basic case | [Here](https://github.com/nathan-hoche/Algorithm) | :white_check_mark: | Python | ... |

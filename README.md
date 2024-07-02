@@ -4,6 +4,8 @@ This is my Github profile, you can find here a part of my personnal projects and
 
 I am in love with Artificial Intelligence for more than 8 years now! During those years, I done a lot of projects, some of my projects are on Github, but not all of them. :sweat_smile: But I listed the most interestings ones here! :smile:
 
+> If you want more information you can find my portfolio [here](https://nathan-hoche.github.io/)
+
 # My Project List
 
 You can find here a list of my projects, with a description, a link to the repository, the status of the project, the language used and the technology used. :wink:

@@ -38,6 +38,10 @@ Here is a list of my project on Github about Artificial Intelligence. :robot:
 
 Here is the list of workshop I organized for Epitech Toulouse. :school:
 
+<details>
+<summary>Workshop List :scroll:</summary>
+<!--All you need is a blank line-->
+
 | Number | Name | Description | Repository | Status | Language | Technology | Year of Organization |
 |:------:|:----:|:-----------:|:----------:|:------:|:--------:|:----------:|:--------------------:|
 | 1 | Workshop IA Pong | Create a Pong IA | [Here](https://github.com/nathan-hoche/Worshop_IA_Pong) | :white_check_mark: | Python | pygame | 2020 |
@@ -55,3 +59,5 @@ Here is the list of workshop I organized for Epitech Toulouse. :school:
 | 13 | Basic webscraping in python | Basic webscraping in python | [Here](https://github.com/nathan-hoche/Workshop_WebScraping_Python) | :white_check_mark: | Python | requests, beautifulsoup | 2020/2021/2023 |
 | 14 | Basic crawling in python | Basic crawling in python | [Here](https://github.com/nathan-hoche/Workshop_crawling) | :white_check_mark: | Python | requests, beautifulsoup | 2020/2021/2023 |
 | 15 | WebScraping using Selenium Python | WebScraping using Selenium Python | [Here](https://github.com/nathan-hoche/Workshop-WebScraping-Dynamic) | :white_check_mark: | Python | selenium | 2021/2021/2023 |
+</details>
+

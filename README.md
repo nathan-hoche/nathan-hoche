@@ -41,7 +41,7 @@ Here is a list of my project on Github about Artificial Intelligence. :robot:
 Here is the list of workshop I organized for Epitech Toulouse. :school:
 
 <details>
-<summary>Workshop List :scroll:</summary>
+<summary>Click Here! :scroll:</summary>
 <!--All you need is a blank line-->
 
 | Number | Name | Description | Repository | Status | Language | Technology | Year of Organization |

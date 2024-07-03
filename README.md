@@ -16,11 +16,11 @@ But, in order to underlight some of my projects, I will create a list of my favo
 
 Here is a list of my favorite projects! :smile:
 
-| Rank in my Heart | Name | Type | Repository | Result |
-|:----------------:|:----:|:----:|:----------:|:------:|
-| 1 | MonaLisa | Artificial Intelligence | [Here](https://github.com/nathan-hoche/MonaLisa) | |
-| 2 | Car Racing | Artificial Intelligence | [Here](https://github.com/nathan-hoche/CarRacing) |
-| 3 | Brainy Simulation | Artificial Intelligence | [Here](https://github.com/nathan-hoche/BrainySimulation) | / |
+| Rank in my Heart | Name | Type | Repository |
+|:----------------:|:----:|:----:|:----------:|
+| 1 | MonaLisa | Artificial Intelligence | [Here](https://github.com/nathan-hoche/MonaLisa) |
+| 2 | Car Racing | Artificial Intelligence | [Here](https://github.com/nathan-hoche/CarRacing)
+| 3 | Brainy Simulation | Artificial Intelligence | [Here](https://github.com/nathan-hoche/BrainySimulation) |
 
 > :warning: You can find a lot more information about those projects in their repository! :wink:
 
